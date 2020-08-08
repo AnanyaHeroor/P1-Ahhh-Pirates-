@@ -1,5 +1,6 @@
 /**
 * This class translates the pirate code and prints out the location of the pirate headquarters
+* @author Ananya Heroor
 * Each letter is translated to an integer, then multiplied by its position in the word (starting at 1)
 * then that value is divided by 77
 * Ex: Argh would be encoded to 0.8441558441558441, 2.961038961038961, 4.012987012987013, 5.402597402597403
