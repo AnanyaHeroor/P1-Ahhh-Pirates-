@@ -1,5 +1,6 @@
 /**
 * This class computes and prints the average amount lost by the businesses that were robbed by pirates
+* @author Ananya Heroor
 * Only contains a main method
 * Each store should be on its own line
 */
