@@ -1,6 +1,8 @@
-/**We would like to know how much money each business lost due to the pirate attack
+/**
+*We would like to know how much money each business lost due to the pirate attack
 *This program prints each store's name and how much money they lost
 *Calculate thee loss amount for each store, and assign it in a variable
+* @author Ananya Heroor
 *Each store should be on its own line
 *This code only uses a main function
 **/
