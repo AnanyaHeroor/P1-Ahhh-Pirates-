@@ -2,7 +2,7 @@
 * We have discovered pirate code and the message is:
 * 83,116,97,114,114,114,98,117,99,107,115.
 * This class translates the pirate code and prints out the location at which the pirates will attack
-* 
+* @author Ananya Heroor
 */
 public class Attack {
     public static void main (String [] args){
