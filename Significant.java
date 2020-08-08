@@ -1,5 +1,6 @@
 /**
 * This class determines which businesses had a significant loss
+* @author Ananya Heroor
 * We are considering a loss to be significant if it is more than 43.21876% of the business' starting amount
 */
 public class Significant {
