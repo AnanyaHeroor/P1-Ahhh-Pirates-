@@ -1,5 +1,6 @@
 /**
 * This class decodes a new secret message that contains the pirate king's name
+* @author Ananya Heroor
 * The pirates' secret message code is different than in Attack.java
 * After converting a letter to an integer, they multiply that value by 3, and then add 21
 * Ex: Argh would be encoded to 216, 363, 330, 333
